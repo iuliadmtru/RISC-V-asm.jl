@@ -1,7 +1,7 @@
 # RISC-V-asm.jl
 
 This is a small project done in collaboration with [@AndreiDuma](https://github.com/AndreiDuma).
-It's a helper tool for his cool Master's thesis (link: #TODO).
+It's a helper tool for his very cool [Master's thesis](https://github.com/AndreiDuma/SmithForth_RISC-V).
 
 ## Usage:
 1. Open a `julia` REPL
